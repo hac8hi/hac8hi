@@ -1,16 +1,19 @@
-## Hi there 👋
+#👋 Hi, I’m Rado
+---
 
-<!--
-**hac8hi/hac8hi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##💻 I’m passionate about network security, embedded systems, data science and software engineering
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+- **Languages**: Python, Bash, JavaScript/Typescript
+- **Frameworks & Tools**: PyQt, FastAPI, Express.js
+
+---
+## 📡 Currently learning **Flutter**
+
+---
+##🌱 Always learning new ways to build fast, efficient, and maintainable systems
+
+---
+##📬 Reach me at: 8rado.andrianirina8@gmail.com or linkedin.com/in/rado-herilalaina-andrianirina
