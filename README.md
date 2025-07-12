@@ -10,10 +10,10 @@
 - **Frameworks & Tools**: PyQt, FastAPI, Express.js
 
 ---
-## 📡 Currently learning **Flutter**
+## 📡 Currently learning **Flutter** and **NextJs**
 
 ---
-##🌱 Always learning new ways to build fast, efficient, and maintainable systems
 
----
-##📬 Reach me at: 8rado.andrianirina8@gmail.com or linkedin.com/in/rado-herilalaina-andrianirina
+##📬 Reach me
+ - Email: 8rado.andrianirina8@gmail.com 
+ - LinkedIn: linkedin.com/in/rado-herilalaina-andrianirina
