@@ -7,7 +7,7 @@
 
 ## 🧰 Tech Stack
 - **Languages**: Python, Bash, JavaScript/Typescript
-- **Frameworks & Tools**: PyQt, FastAPI, Express.js
+- **Frameworks & Tools**: PyQt, FastAPI, Express.js, React, Tailwind CSS
 
 ---
 ## 📡 Currently learning **Flutter** and **NextJs**
