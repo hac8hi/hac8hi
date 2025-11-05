@@ -14,6 +14,8 @@
 
 ---
 
-##📬 Reach me
+## 📬 Reach me
  - Email: 8rado.andrianirina8@gmail.com 
  - LinkedIn: linkedin.com/in/rado-herilalaina-andrianirina
+
+---
