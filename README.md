@@ -1,16 +1,16 @@
-#👋 Hi, I’m Rado
+👋 Hi, I’m Rado
 ---
 
-##💻 I’m passionate about network security, embedded systems, data science and software engineering
+💻 I’m passionate about software engineering, network security, data science and embedded systems  
 
 ---
 
 ## 🧰 Tech Stack
 - **Languages**: Python, Bash, JavaScript/Typescript
-- **Frameworks & Tools**: PyQt, FastAPI, Express.js, React, Tailwind CSS
+- **Frameworks & Tools**: PyQt, DjangoREST, FastAPI, Nodejs, React, Tailwind CSS
 
 ---
-## 📡 Currently learning **Flutter** and **NextJs**
+## 📡 Currently learning **NestJS**
 
 ---
 
